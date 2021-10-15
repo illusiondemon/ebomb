@@ -1,0 +1,2 @@
+# ebomb
+Email Bombing Tool
